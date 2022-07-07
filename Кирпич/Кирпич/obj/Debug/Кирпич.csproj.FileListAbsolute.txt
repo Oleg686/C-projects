@@ -1,0 +1,10 @@
+C:\Users\olezh\source\repos\Кирпич\Кирпич\bin\Debug\Кирпич.exe.config
+C:\Users\olezh\source\repos\Кирпич\Кирпич\bin\Debug\Кирпич.exe
+C:\Users\olezh\source\repos\Кирпич\Кирпич\bin\Debug\Кирпич.pdb
+C:\Users\olezh\source\repos\Кирпич\Кирпич\obj\Debug\Кирпич.csproj.AssemblyReference.cache
+C:\Users\olezh\source\repos\Кирпич\Кирпич\obj\Debug\Кирпич.Form1.resources
+C:\Users\olezh\source\repos\Кирпич\Кирпич\obj\Debug\Кирпич.Properties.Resources.resources
+C:\Users\olezh\source\repos\Кирпич\Кирпич\obj\Debug\Кирпич.csproj.GenerateResource.cache
+C:\Users\olezh\source\repos\Кирпич\Кирпич\obj\Debug\Кирпич.csproj.CoreCompileInputs.cache
+C:\Users\olezh\source\repos\Кирпич\Кирпич\obj\Debug\Кирпич.exe
+C:\Users\olezh\source\repos\Кирпич\Кирпич\obj\Debug\Кирпич.pdb

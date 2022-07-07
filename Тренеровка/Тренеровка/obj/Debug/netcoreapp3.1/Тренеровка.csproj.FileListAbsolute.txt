@@ -1,0 +1,14 @@
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\bin\Debug\netcoreapp3.1\Тренеровка.exe
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\bin\Debug\netcoreapp3.1\Тренеровка.deps.json
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\bin\Debug\netcoreapp3.1\Тренеровка.runtimeconfig.json
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\bin\Debug\netcoreapp3.1\Тренеровка.runtimeconfig.dev.json
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\bin\Debug\netcoreapp3.1\Тренеровка.dll
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\bin\Debug\netcoreapp3.1\Тренеровка.pdb
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\obj\Debug\netcoreapp3.1\Тренеровка.csproj.AssemblyReference.cache
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\obj\Debug\netcoreapp3.1\Тренеровка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\obj\Debug\netcoreapp3.1\Тренеровка.AssemblyInfoInputs.cache
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\obj\Debug\netcoreapp3.1\Тренеровка.AssemblyInfo.cs
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\obj\Debug\netcoreapp3.1\Тренеровка.csproj.CoreCompileInputs.cache
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\obj\Debug\netcoreapp3.1\Тренеровка.dll
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\obj\Debug\netcoreapp3.1\Тренеровка.pdb
+C:\Users\olezh\source\repos\Тренеровка\Тренеровка\obj\Debug\netcoreapp3.1\Тренеровка.genruntimeconfig.cache
